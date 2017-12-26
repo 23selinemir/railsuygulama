@@ -60,5 +60,3 @@ group :production do
   gem 'activeadmin'
   
 end
-
-
